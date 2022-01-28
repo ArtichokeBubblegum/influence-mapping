@@ -3,7 +3,6 @@
 #include "CoreMinimal.h"
 #include "AIController.h"
 #include "InfluenceMapPropagator.h"
-#include "InfluenceMapAIController.h"
 #include "InfluenceMapAISettings.h"
 #include "InfluenceMapAIController.generated.h"
 
